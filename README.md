@@ -1,1 +1,15 @@
-# phase_3_project
+# Business Understanding
+
+# Data Understanding
+
+## Data Preparation
+
+# Exploratory Data Analysis
+
+# Conclusion
+
+## Limitations
+
+## Recommendations
+
+## Next Steps
